@@ -1,2 +1,2 @@
-# abstractive_text_summarization
-Code for my diploma thesis "Abstractive Text Summarization"
+# Abstractive Text Summarization
+Tensorflow 1.4 code for my diploma thesis. The thesis report is also uploaded but it is written in greek language.
